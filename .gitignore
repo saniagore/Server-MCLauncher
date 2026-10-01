@@ -1,0 +1,3 @@
+servers/mi-servidor/
+__pycache__/
+*.pyc
